@@ -1,5 +1,7 @@
 var ball;
 var database,position
+var x = 5
+var y = 5
 
 function setup(){
     database=firebase.database()
